@@ -26,8 +26,9 @@ img {
     padding-top: 18px;
     line-height: 200%;
 }
+
 .sborder {
-    border: 1px solid #CCC;
+    border: 1px solid #ccc;
     padding-top: 10px;
     padding-left: 30px;
     min-height: 222px;
